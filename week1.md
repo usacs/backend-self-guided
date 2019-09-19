@@ -4,11 +4,11 @@ Hi! Welcome to the backend self guided project, URL shortener. Here is this week
 
 ## Agenda
 1. Introduction
-	--Web development
-	--Flask
+	- Web development
+	- Flask
 2. Begin technical setup
-	--Notes on Directory Structure
-	--Building "Hello World"
+	- Notes on Directory Structure
+	- Building "Hello World"
 
 # Introduction to web development + Flask
 
