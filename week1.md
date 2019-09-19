@@ -12,7 +12,7 @@ Hi! Welcome to the backend self guided project, URL shortener. Here is this week
 
 # Introduction to web development + Flask
 
-Follow along **here**!
+Follow along **here**: https://docs.google.com/presentation/d/1jMNciAKopos4JMXy65NTUkRiLfqHTrTgldwqLoeAi9A/edit?usp=sharing
 
 # Notes on Directory Structure
 
